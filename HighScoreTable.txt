@@ -1,0 +1,10 @@
+ Yeliz 120 
+ Can 100 
+ Ece 90 
+ Sibel 80 
+ 2nd_player 70 
+ 1st_player 60 
+ Remzi 60 
+ Ali 50 
+ Ahmet 40 
+ 
